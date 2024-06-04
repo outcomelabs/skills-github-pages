@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Documention Test
 ---
+# Sample Documenation
 
+This is some text
